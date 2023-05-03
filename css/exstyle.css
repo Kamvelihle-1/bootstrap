@@ -1,0 +1,10 @@
+.col{
+    /* border: 1px solid black; */
+    background-color: antiquewhite;
+}
+#month, #dow{
+    background-color: rgb(76, 123, 124);
+}
+#days{
+    padding: 5px 15px 20px;
+}
